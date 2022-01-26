@@ -1,2 +1,4 @@
 # hello_python_22
-hello world python
+hello world program in python.
+
+print("hello_world")
